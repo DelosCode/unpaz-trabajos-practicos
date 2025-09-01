@@ -287,7 +287,11 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>Reserva de hoteles</td>
          <td>Proyecto de gestión de reservas de hoteles. Stack: Java 17 + Spring Boot 3 + PostgreSQL + Vue 3 + Pinia + Vite.</td>
          <td><a href="https://github.com/Veik1/reserva-hoteles" title="link al repositorio">link</a></td>
-         <td><a href="https://github.com/Veik1"><img src="https://github.com/Veik1.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td>
+            <a href="https://github.com/Veik1">
+               <img src="https://github.com/Veik1.png" width="100" height="100" />
+            </a>
+         </td>
       </tr>
    </tbody>
 </table>
@@ -439,6 +443,20 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
             <td>
                <a href="https://github.com/MONZONPUNTOEXE">
                   <img src="https://github.com/MONZONPUNTOEXE.png" width="100" height="100" />
+               </a>
+            </td>
+       </tr>
+      <tr>
+         <td>Clicker de gatos robots</td>
+         <td>Juego hecho con Godot y C#, de clickear y gestionar Gatos Robots y mejorar la proudcción de las mismas</td>
+            <td>
+               <a href="https://github.com/Veik1/RobotCats-v0.1" title="Repositorio en GitHub">GitHub repo</a>
+               <br><br>
+               <a href="https://github.com/Veik1/RobotCats-v0.1/releases/tag/game" title="Ejecutable para descargar">v0.1 release</a>
+            </td>
+            <td>
+               <a href="https://github.com/Veik1">
+                  <img src="https://github.com/Veik1.png" width="100" height="100" />
                </a>
             </td>
        </tr>
