@@ -36,6 +36,12 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td><a href="https://github.com/MONZONPUNTOEXE/Introduccion-a-la-Programacion-I" title="link al repositorio">link</a></td>
          <td><a href="https://github.com/MONZONPUNTOEXE"><img src="https://github.com/MONZONPUNTOEXE.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
+      <tr>
+         <td>Resumen cursada</td>
+         <td>Este repositorio contiene una colección de ejercicios resueltos en Python, como parte del curso Introducción a la Programación. Los archivos están organizados en prácticas individuales, ejercicios modelo, y funciones útiles, abarcando estructuras básicas, condicionales, bucles, funciones, validaciones y más.</td>
+         <td><a href="https://github.com/brunorios21/Introducci-n-a-la-programaci-n/tree/main" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/brunorios21"><img src="https://github.com/brunorios21.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
    </tbody>
 </table>
 
