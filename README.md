@@ -310,8 +310,8 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
       <tr>
          <td>Personas App</td>
          <td>Personas App es una aplicación web interactiva que permite explorar y filtrar perfiles de personas según diferentes criterios, como ciudad y profesión. ¡Descubre perfiles de manera fácil y rápida! 🚀</td>
-         <td><a href="https://github.com/Martincho83/PersonasApp" title="link al repositorio">link</a></td>
-         <td><a href="https://github.com/Martincho83"><img src="https://github.com/Martincho83.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+         <td><a href="https://github.com/TInchoLabs/PersonasApp" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/TInchoLabs"><img src="https://github.com/TInchoLabs.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
       <tr>
          <td>Sistema de gestion de reservas de vuelos</td>
@@ -326,8 +326,8 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
                      </a>
                   </td>
                   <td>
-                     <a href="https://github.com/Martincho83">
-                        <img src="https://github.com/Martincho83.png" alt="Foto de perfil" width="50px" height="50px"/>
+                     <a href="https://github.com/TInchoLabs">
+                        <img src="https://github.com/TInchoLabs.png" alt="Foto de perfil" width="50px" height="50px"/>
                      </a>
                   </td>
               </tr>
