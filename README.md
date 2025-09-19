@@ -57,6 +57,12 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
    </thead>
    <tbody>
       <tr>
+         <td>resumen cursada</td>
+         <td>Este repositorio reúne diferentes scripts en Python que abordan temas fundamentales de programación estructurada</td>
+         <td><a href="https://github.com/brunorios21/Algoritmo-Y-programaci-n" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/brunorios21"><img src="https://github.com/brunorios21.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
+      <tr>
          <td>colapinto</td>
          <td>se registra los tiempos de ensayo de Franco Colapinto en 5 vueltas consecutivas, junto con el consumo de combustible.</td>
          <td><a href="https://github.com/DelosCode/unpaz-algoritmos-parcial1-colapinto" title="link al repositorio">link</a></td>
