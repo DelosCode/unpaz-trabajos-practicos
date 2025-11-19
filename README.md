@@ -132,6 +132,12 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td><a href="https://github.com/DelosCode/unpaz-tp-paradigmas-de-la-programacion-coliseo" title="link al repositorio">link</a></td>
          <td><a href="https://github.com/DelosCode"><img src="https://github.com/DelosCode.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
+      <tr>
+         <td>Kinesiologia</td>
+         <td>Ejercicio de kinesiologia en el cual practicamos metodos, funciones, objetos, polimorfismo entre otras cosas</td>
+         <td><a href="https://github.com/sanba2k/Kinesiologia-Ejercicio" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/sanba2k"><img src="https://github.com/sanba2k.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
    </tbody>
 </table>
 
