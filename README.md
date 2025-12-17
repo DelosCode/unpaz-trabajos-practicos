@@ -478,6 +478,20 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
                </a>
             </td>
        </tr>
+      <tr>
+         <td>PC Tech Store — Proyecto Frontend</td>
+         <td>Este repositorio contiene un proyecto de maqueta de tienda de hardware llamada "PC Tech Store". El objetivo del proyecto es practicar la construcción de una interfaz web estática que simula un catálogo de productos, un armador de PC y un carrito de compras con persistencia simple en localStorage.</td>
+            <td>
+               <a href="https://github.com/brunorios21/Entrega-Final-Talento-Tech" title="Repositorio en GitHub">GitHub repo</a>
+               <br><br>
+               <a href="https://brunorios21.github.io/Entrega-Final-Talento-Tech/" title="github pages">pagina desplegada</a>
+            </td>
+            <td>
+               <a href="https://github.com/brunorios21">
+                  <img src="https://github.com/brunorios21.png" width="100" height="100" />
+               </a>
+            </td>
+       </tr>
    </tbody>
 </table>
 
