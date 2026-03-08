@@ -311,6 +311,16 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
             </a>
          </td>
       </tr>
+      <tr>
+         <td>Cronograma Laboratorio de Software</td>
+         <td>Cronograma de la materia</td>
+         <td><a href="https://leandro-educ.github.io/Laboratorio-Software-Cronograma/" title="link al sitio">link</a></td>
+         <td>
+            <a href="https://github.com/leandro-educ">
+               <img src="https://github.com/leandro-educ.png" width="100" height="100" />
+            </a>
+         </td>
+      </tr>
    </tbody>
 </table>
 
