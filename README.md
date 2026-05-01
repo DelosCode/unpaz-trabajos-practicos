@@ -312,6 +312,16 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          </td>
       </tr>
       <tr>
+         <td>Gestion de pedido y facturacion</td>
+         <td>Núcleo de un sistema de ventas para un comercio electrónico de componentes de PC. El sistema debe calcular totales, aplicar promociones dinámicas y emitir recibos en diferentes formatos, manteniendo una arquitectura estrictamente modular y separando la lógica de negocio de la infraestructura.</td>
+         <td><a href="https://github.com/W3-Briel/labSoftware-GestionPedidosFacturacion" title="link al repositorio">link</a></td>
+         <td>
+            <a href="https://github.com/W3-Briel">
+               <img src="https://github.com/W3-Briel.png" width="100" height="100" />
+            </a>
+         </td>
+      </tr>
+      <tr>
          <td>Cronograma Laboratorio de Software</td>
          <td>Cronograma de la materia</td>
          <td><a href="https://leandro-educ.github.io/Laboratorio-Software-Cronograma/" title="link al sitio">link</a></td>
