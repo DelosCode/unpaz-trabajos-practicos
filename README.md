@@ -331,6 +331,16 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
             </a>
          </td>
       </tr>
+      <tr>
+         <td>mvp-alquiler-inmuebles</td>
+         <td>Permite persistencia de usuarios e inmubles. Generar contratos y cuotas. El sistema esta enfocado en el manejo de estados. Se utiliza patrones de diseño.</td>
+         <td><a href="https://github.com/W3-Briel/mvp-alquiler-inmuebles" title="link al sitio">link</a></td>
+         <td>
+            <a href="https://github.com/W3-Briel">
+               <img src="https://github.com/W3-Briel.png" width="100" height="100" />
+            </a>
+         </td>
+      </tr>
    </tbody>
 </table>
 
