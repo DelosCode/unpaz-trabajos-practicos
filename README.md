@@ -187,6 +187,13 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td><a href="https://github.com/W3-Briel"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
       <tr>
+         <td>Supermercado</td>
+         <td>Una cadena de supermercados necesita desarrollar un sistema para gestionar y analizar sus ventas. Las ventas pueden ser de distintos tipos y cada una tiene un cálculo de importe final diferente. El sistema deberá almacenar la información utilizando un HashMap y resolver distintos requerimientos usando Streams de Java.
+</td>
+         <td><a href="https://github.com/sanba2k/Supermercado" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/sanba2k"><img src="https://github.com/sanba2k.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
+      <tr>
          <td>Gestion kioskos</td>
          <td>menu de gestion de kiosco, lectura de archivo y dto.</td>
          <td><a href="https://github.com/W3-Briel/UNPAZ-POO-Registro-Ventas" title="link al repositorio">link</a></td>
@@ -203,6 +210,18 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td>Una empresa de logística necesita desarrollar un sistema que gestione envíos de paquetes entre distintas ciudades. Cada envío contiene información sobre el cliente, el tipo de servicio (urgente o común), el peso del paquete y la ciudad de destino.</td>
          <td><a href="https://github.com/W3-Briel/unpaz-POO-Gestion-Envios" title="link al repositorio">link</a></td>
          <td><a href="https://github.com/W3-Briel"><img src="https://github.com/w3-briel.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
+      <tr>
+         <td>Gestión de Shows - DF Entertainment</td>
+         <td>Este proyecto simula un sistema de gestión de shows y eventos, como los organizados por DF Entertainment, aplicando Programación Orientada a Objetos, HashMap y Streams en Java.</td>
+         <td><a href="https://github.com/sanba2k/Shows" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/sanba2k"><img src="https://github.com/sanba2k.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
+      </tr>
+      <tr>
+         <td>Gestión de Socios - Club Atlético Independiente</td>
+         <td>Este proyecto simula un sistema de gestión de shows y eventos, como los organizados por DF Entertainment, aplicando Programación Orientada a Objetos, HashMap y Streams en Java.</td>
+         <td><a href="https://github.com/sanba2k/Ejercicio-Socios-Independiente" title="link al repositorio">link</a></td>
+         <td><a href="https://github.com/sanba2k"><img src="https://github.com/sanba2k.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
       <tr>
          <td>Cursos y estudiantes</td>
@@ -334,7 +353,7 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
       <tr>
          <td>mvp-alquiler-inmuebles</td>
          <td>Permite persistencia de usuarios e inmubles. Generar contratos y cuotas. El sistema esta enfocado en el manejo de estados. Se utiliza patrones de diseño.</td>
-         <td><a href="https://github.com/W3-Briel/mvp-alquiler-inmuebles" title="link al sitio">link</a></td>
+         <td><a href="https://github.com/W3-Briel/mvp-alquiler-inmuebles" title="link al repositorio">link</a></td>
          <td>
             <a href="https://github.com/W3-Briel">
                <img src="https://github.com/W3-Briel.png" width="100" height="100" />
