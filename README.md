@@ -106,6 +106,21 @@ Si estás buscando compartir conocimiento, aprender de otros o simplemente subir
          <td><a href="https://github.com/brunorios21/proyectoRestaurant_db" title="link al repositorio">link</a></td>
          <td><a href="https://github.com/brunorios21"><img src="https://github.com/brunorios21.png" alt="Foto de perfil" width="100px" height="100px"/></a></td>
       </tr>
+      <tr>
+      <td>Nombres importantes</td>
+         <td>pequeña aplicación con tres contenedores y persistencia. frontend, backend y bbdd. Se crea una tabla con una columna y se persisten los valores.</td>
+         <td><a href="https://github.com/W3-Briel/so2-aplicacion-de-nombres-unpaz" title="link al repositorio">link</a></td>
+         <td>
+            <table>
+               <tr>
+                  <td><a href="https://github.com/W3-Briel"><img src="https://github.com/W3-Briel.png" alt="Foto de perfil" width="50px" height="50px"/></a></td>
+                  <td><a href="https://github.com/sanba2k"><img src="https://github.com/sanba2k.png" alt="Foto de perfil" width="50px" height="50px"/></a></td>
+               </tr>
+            </table>
+         </td>
+         </td>
+         </table>
+      </tr>
    </tbody>
 </table>
 
